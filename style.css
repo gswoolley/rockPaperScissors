@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+}
+
+#scorebox{
+    text-align: center;
+}
+
+button{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
